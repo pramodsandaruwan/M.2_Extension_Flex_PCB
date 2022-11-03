@@ -1,0 +1,136 @@
+Added Pin To Net: NetName=GND Pin=J1-S1
+Added Pin To Net: NetName=GND Pin=J1-S2
+Added Net: Name=GND
+Added Pin To Net: NetName=P_32 Pin=J1-32
+Added Pin To Net: NetName=P_32 Pin=J2-32
+Added Net: Name=P_32
+Added Pin To Net: NetName=P_33 Pin=J1-33
+Added Pin To Net: NetName=P_33 Pin=J2-33
+Added Net: Name=P_33
+Added Pin To Net: NetName=P_34 Pin=J1-34
+Added Pin To Net: NetName=P_34 Pin=J2-34
+Added Net: Name=P_34
+Added Pin To Net: NetName=P_35 Pin=J1-35
+Added Pin To Net: NetName=P_35 Pin=J2-35
+Added Net: Name=P_35
+Added Pin To Net: NetName=P_36 Pin=J1-36
+Added Pin To Net: NetName=P_36 Pin=J2-36
+Added Net: Name=P_36
+Added Pin To Net: NetName=P_37 Pin=J1-37
+Added Pin To Net: NetName=P_37 Pin=J2-37
+Added Net: Name=P_37
+Added Pin To Net: NetName=P_38 Pin=J1-38
+Added Pin To Net: NetName=P_38 Pin=J2-38
+Added Net: Name=P_38
+Added Pin To Net: NetName=P_39 Pin=J1-39
+Added Pin To Net: NetName=P_39 Pin=J2-39
+Added Net: Name=P_39
+Added Pin To Net: NetName=P_40 Pin=J1-40
+Added Pin To Net: NetName=P_40 Pin=J2-40
+Added Net: Name=P_40
+Added Pin To Net: NetName=P_41 Pin=J1-41
+Added Pin To Net: NetName=P_41 Pin=J2-41
+Added Net: Name=P_41
+Added Pin To Net: NetName=P_42 Pin=J1-42
+Added Pin To Net: NetName=P_42 Pin=J2-42
+Added Net: Name=P_42
+Added Pin To Net: NetName=P_43 Pin=J1-43
+Added Pin To Net: NetName=P_43 Pin=J2-43
+Added Net: Name=P_43
+Added Pin To Net: NetName=P_44 Pin=J1-44
+Added Pin To Net: NetName=P_44 Pin=J2-44
+Added Net: Name=P_44
+Added Pin To Net: NetName=P_45 Pin=J1-45
+Added Pin To Net: NetName=P_45 Pin=J2-45
+Added Net: Name=P_45
+Added Pin To Net: NetName=P_46 Pin=J1-46
+Added Pin To Net: NetName=P_46 Pin=J2-46
+Added Net: Name=P_46
+Added Pin To Net: NetName=P_47 Pin=J1-47
+Added Pin To Net: NetName=P_47 Pin=J2-47
+Added Net: Name=P_47
+Added Pin To Net: NetName=P_48 Pin=J1-48
+Added Pin To Net: NetName=P_48 Pin=J2-48
+Added Net: Name=P_48
+Added Pin To Net: NetName=P_49 Pin=J1-49
+Added Pin To Net: NetName=P_49 Pin=J2-49
+Added Net: Name=P_49
+Added Pin To Net: NetName=P_50 Pin=J1-50
+Added Pin To Net: NetName=P_50 Pin=J2-50
+Added Net: Name=P_50
+Added Pin To Net: NetName=P_51 Pin=J1-51
+Added Pin To Net: NetName=P_51 Pin=J2-51
+Added Net: Name=P_51
+Added Pin To Net: NetName=P_52 Pin=J1-52
+Added Pin To Net: NetName=P_52 Pin=J2-52
+Added Net: Name=P_52
+Added Pin To Net: NetName=P_53 Pin=J1-53
+Added Pin To Net: NetName=P_53 Pin=J2-53
+Added Net: Name=P_53
+Added Pin To Net: NetName=P_54 Pin=J1-54
+Added Pin To Net: NetName=P_54 Pin=J2-54
+Added Net: Name=P_54
+Added Pin To Net: NetName=P_55 Pin=J1-55
+Added Pin To Net: NetName=P_55 Pin=J2-55
+Added Net: Name=P_55
+Added Pin To Net: NetName=P_56 Pin=J1-56
+Added Pin To Net: NetName=P_56 Pin=J2-56
+Added Net: Name=P_56
+Added Pin To Net: NetName=P_57 Pin=J1-57
+Added Pin To Net: NetName=P_57 Pin=J2-57
+Added Net: Name=P_57
+Added Pin To Net: NetName=P_58 Pin=J1-58
+Added Pin To Net: NetName=P_58 Pin=J2-58
+Added Net: Name=P_58
+Added Pin To Net: NetName=P_59 Pin=J1-59
+Added Pin To Net: NetName=P_59 Pin=J2-59
+Added Net: Name=P_59
+Added Pin To Net: NetName=P_60 Pin=J1-60
+Added Pin To Net: NetName=P_60 Pin=J2-60
+Added Net: Name=P_60
+Added Pin To Net: NetName=P_61 Pin=J1-61
+Added Pin To Net: NetName=P_61 Pin=J2-61
+Added Net: Name=P_61
+Added Pin To Net: NetName=P_62 Pin=J1-62
+Added Pin To Net: NetName=P_62 Pin=J2-62
+Added Net: Name=P_62
+Added Pin To Net: NetName=P_63 Pin=J1-63
+Added Pin To Net: NetName=P_63 Pin=J2-63
+Added Net: Name=P_63
+Added Pin To Net: NetName=P_64 Pin=J1-64
+Added Pin To Net: NetName=P_64 Pin=J2-64
+Added Net: Name=P_64
+Added Pin To Net: NetName=P_65 Pin=J1-65
+Added Pin To Net: NetName=P_65 Pin=J2-65
+Added Net: Name=P_65
+Added Pin To Net: NetName=P_66 Pin=J1-66
+Added Pin To Net: NetName=P_66 Pin=J2-66
+Added Net: Name=P_66
+Added Pin To Net: NetName=P_67 Pin=J1-67
+Added Pin To Net: NetName=P_67 Pin=J2-67
+Added Net: Name=P_67
+Added Pin To Net: NetName=P_68 Pin=J1-68
+Added Pin To Net: NetName=P_68 Pin=J2-68
+Added Net: Name=P_68
+Added Pin To Net: NetName=P_69 Pin=J1-69
+Added Pin To Net: NetName=P_69 Pin=J2-69
+Added Net: Name=P_69
+Added Pin To Net: NetName=P_70 Pin=J1-70
+Added Pin To Net: NetName=P_70 Pin=J2-70
+Added Net: Name=P_70
+Added Pin To Net: NetName=P_71 Pin=J1-71
+Added Pin To Net: NetName=P_71 Pin=J2-71
+Added Net: Name=P_71
+Added Pin To Net: NetName=P_72 Pin=J1-72
+Added Pin To Net: NetName=P_72 Pin=J2-72
+Added Net: Name=P_72
+Added Pin To Net: NetName=P_73 Pin=J1-73
+Added Pin To Net: NetName=P_73 Pin=J2-73
+Added Net: Name=P_73
+Added Pin To Net: NetName=P_74 Pin=J1-74
+Added Pin To Net: NetName=P_74 Pin=J2-74
+Added Net: Name=P_74
+Added Pin To Net: NetName=P_75 Pin=J1-75
+Added Pin To Net: NetName=P_75 Pin=J2-75
+Added Net: Name=P_75
+Added Room: Name=Flex_design

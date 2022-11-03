@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Flex_design.GBR   11/4/2022  1:41:47 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer 1                             
+.GP1                Top GND                                 
+.GP2                Bottom GND                              
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM4                Route Tool Path                         
+.GCT2               Top Solder (flex_stack)                 
+.GCB2               Bottom Solder (flex_stack)              
+------------------------------------------------------------------------------------------

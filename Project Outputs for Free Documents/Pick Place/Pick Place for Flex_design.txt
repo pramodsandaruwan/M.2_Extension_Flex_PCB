@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+D:\QBITS\RTK_GNSS_PROJECT\Flex\Flex_design\Project Outputs for Free Documents\Pick Place\Pick Place for Flex_design.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       04/11/22
+Time:       01:41
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer    Footprint             Center-X(mil) Center-Y(mil) Rotation Description                                                                                     
+J2         M.2_KEY_E    TopLayer M.2_KEY_E             4523.622      3051.181      90       ""                                                                                              
+J1         MDT180E01001 TopLayer AMPHENOL_MDT180E01001 2239.370      3051.181      270      "PCIe M.2 Connectors, Storage and Server Connector, P=0.5mm, H=1.8mm, Key E, 30μin Au Plating" 

@@ -1,0 +1,70 @@
+Added Pin To Net: NetName=P_1 Pin=J1-1
+Added Pin To Net: NetName=P_1 Pin=J2-1
+Added Net: Name=P_1
+Added Pin To Net: NetName=P_2 Pin=J1-2
+Added Pin To Net: NetName=P_2 Pin=J2-2
+Added Net: Name=P_2
+Added Pin To Net: NetName=P_3 Pin=J1-3
+Added Pin To Net: NetName=P_3 Pin=J2-3
+Added Net: Name=P_3
+Added Pin To Net: NetName=P_4 Pin=J1-4
+Added Pin To Net: NetName=P_4 Pin=J2-4
+Added Net: Name=P_4
+Added Pin To Net: NetName=P_5 Pin=J1-5
+Added Pin To Net: NetName=P_5 Pin=J2-5
+Added Net: Name=P_5
+Added Pin To Net: NetName=P_6 Pin=J1-6
+Added Pin To Net: NetName=P_6 Pin=J2-6
+Added Net: Name=P_6
+Added Pin To Net: NetName=P_7 Pin=J1-7
+Added Pin To Net: NetName=P_7 Pin=J2-7
+Added Net: Name=P_7
+Added Pin To Net: NetName=P_8 Pin=J1-8
+Added Pin To Net: NetName=P_8 Pin=J2-8
+Added Net: Name=P_8
+Added Pin To Net: NetName=P_9 Pin=J1-9
+Added Pin To Net: NetName=P_9 Pin=J2-9
+Added Net: Name=P_9
+Added Pin To Net: NetName=P_10 Pin=J1-10
+Added Pin To Net: NetName=P_10 Pin=J2-10
+Added Net: Name=P_10
+Added Pin To Net: NetName=P_11 Pin=J1-11
+Added Pin To Net: NetName=P_11 Pin=J2-11
+Added Net: Name=P_11
+Added Pin To Net: NetName=P_12 Pin=J1-12
+Added Pin To Net: NetName=P_12 Pin=J2-12
+Added Net: Name=P_12
+Added Pin To Net: NetName=P_13 Pin=J1-13
+Added Pin To Net: NetName=P_13 Pin=J2-13
+Added Net: Name=P_13
+Added Pin To Net: NetName=P_14 Pin=J1-14
+Added Pin To Net: NetName=P_14 Pin=J2-14
+Added Net: Name=P_14
+Added Pin To Net: NetName=P_15 Pin=J1-15
+Added Pin To Net: NetName=P_15 Pin=J2-15
+Added Net: Name=P_15
+Added Pin To Net: NetName=P_16 Pin=J1-16
+Added Pin To Net: NetName=P_16 Pin=J2-16
+Added Net: Name=P_16
+Added Pin To Net: NetName=P_17 Pin=J1-17
+Added Pin To Net: NetName=P_17 Pin=J2-17
+Added Net: Name=P_17
+Added Pin To Net: NetName=P_18 Pin=J1-18
+Added Pin To Net: NetName=P_18 Pin=J2-18
+Added Net: Name=P_18
+Added Pin To Net: NetName=P_19 Pin=J1-19
+Added Pin To Net: NetName=P_19 Pin=J2-19
+Added Net: Name=P_19
+Added Pin To Net: NetName=P_20 Pin=J1-20
+Added Pin To Net: NetName=P_20 Pin=J2-20
+Added Net: Name=P_20
+Added Pin To Net: NetName=P_21 Pin=J1-21
+Added Pin To Net: NetName=P_21 Pin=J2-21
+Added Net: Name=P_21
+Added Pin To Net: NetName=P_22 Pin=J1-22
+Added Pin To Net: NetName=P_22 Pin=J2-22
+Added Net: Name=P_22
+Added Pin To Net: NetName=P_23 Pin=J1-23
+Added Pin To Net: NetName=P_23 Pin=J2-23
+Added Net: Name=P_23
+Added Room: Name=Flex_design

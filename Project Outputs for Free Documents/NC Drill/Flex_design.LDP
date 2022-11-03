@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: D:\QBITS\RTK_GNSS_PROJECT\Flex\Flex_design\Flex_design.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=flex_design.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top GND_Bottom GND_Buried_Vias|DrillFile=flex_design.tx2|DrillLayers=gp1,gp2
+LayersSetName=Top1_Top GND_Blind_Vias|DrillFile=flex_design.tx7|DrillLayers=gtl,gp1
+LayersSetName=Bottom GND_Bot_Blind_Vias|DrillFile=flex_design.tx9|DrillLayers=gp2,gbl
